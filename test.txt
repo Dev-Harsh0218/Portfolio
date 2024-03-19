@@ -34,5 +34,23 @@
 
 
 
+<p className="text-[#ABB2BF] lg:w-1/2 w-full">
+              Hello, I'm Harsh Bhardwaj
+              <br />
+              <br />
+              I's m self taught fullStack developer based in Ghaziabad Uttar
+              Pradesh,India. I can develop responsive website with full-fledged
+              backends and convert them into modern user-friendly web
+              experiences.
+              <br />
+              <br />
+              Transformaing my creativity,knowledge and logic into websites has
+              been my passion for over years. I have been helping various
+              clients to establish their presence online. i always strive to
+              learn about the newest technologies and frameworks.
+            </p>
+
+
+
 
    

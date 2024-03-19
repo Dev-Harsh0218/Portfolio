@@ -10,3 +10,23 @@
   font-family: "Fira Code", monospace;
   background-color: #282c33;
 }
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #282c33;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #1e1a1a;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
