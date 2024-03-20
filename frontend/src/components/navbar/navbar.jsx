@@ -15,7 +15,7 @@ const Navbar = () => {
           <div className={`menu duration-300 flex-col justify-center md:flex-row flex fixed w-full ${!toggle ? `right-[-100%] top-0 bottom-0` : `right-0 top-0 bottom-0`} bg-[#282C33] md:static`}>
             <a href="/"><li className="text-[#ABB2BF] text-[32px] my-4 md:my-auto md:text-base list-none mx-4"><span className="text-[#C778DD] font-medium">#</span>home</li></a>
             <a href="/"><li className="text-[#ABB2BF] text-[32px] my-4 md:my-auto md:text-base list-none mx-4"><span className="text-[#C778DD] font-medium">#</span>work</li></a>
-            <a href="/"><li className="text-[#ABB2BF] text-[32px] my-4 md:my-auto md:text-base list-none mx-4"><span className="text-[#C778DD] font-medium">#</span>about-me</li></a>
+            <a href="/about"><li className="text-[#ABB2BF] text-[32px] my-4 md:my-auto md:text-base list-none mx-4"><span className="text-[#C778DD] font-medium">#</span>about-me</li></a>
             <a href="/"><li className="text-[#ABB2BF] text-[32px] my-4 md:my-auto md:text-base list-none mx-4"><span className="text-[#C778DD] font-medium">#</span>Contacts</li></a>
             <div onClick={() => setToggle(false)} className="close absolute block md:hidden right-3 top-3">
               <img src={closebtn} alt="" />

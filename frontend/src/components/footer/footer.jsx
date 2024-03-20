@@ -15,7 +15,7 @@ const footer = () => {
           <div className="">
             <div className="flex items-center gap-5 flex-wrap mb-4">
               {/* logo */}
-              <div className="flex gap-2 items-center text-2xl text-white font-bold">
+              <div className="flex lg:gap-2 gap-0 items-center text-2xl text-white font-bold">
                 <img src={logo} className="w-16" alt="" />
                 <span className="">Harsh Bhardwaj</span>
               </div>
